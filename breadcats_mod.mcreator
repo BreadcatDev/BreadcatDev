@@ -1,0 +1,265 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Fluorite",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fluorite"
+    },
+    {
+      "name": "FluoriteOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fluorite_ore"
+    },
+    {
+      "name": "FluoriteBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fluorite_block"
+    },
+    {
+      "name": "FluoriteOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fluorite_ore_block_recipe"
+    },
+    {
+      "name": "FluoriteBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fluorite_block_ore_recipe"
+    },
+    {
+      "name": "FluoritePickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fluorite_pickaxe"
+    },
+    {
+      "name": "FluoritePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fluorite_pickaxe_recipe"
+    },
+    {
+      "name": "Smelt",
+      "type": "enchantment",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smelt"
+    },
+    {
+      "name": "Meettheengineer",
+      "type": "achievement",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "meettheengineer"
+    },
+    {
+      "name": "Sss",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sss"
+    },
+    {
+      "name": "Woolclothing",
+      "type": "armor",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woolclothing",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Woolclothingrecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woolclothingrecipe"
+    },
+    {
+      "name": "Woolclothingpantsrecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woolclothingpantsrecipe"
+    },
+    {
+      "name": "Woolclothingsocksrecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woolclothingsocksrecipe"
+    },
+    {
+      "name": "Woolclothinghatrecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woolclothinghatrecipe"
+    },
+    {
+      "name": "Ricecorns",
+      "type": "food",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ricecorns"
+    },
+    {
+      "name": "Rice",
+      "type": "plant",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rice"
+    },
+    {
+      "name": "Debugstickrecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "debugstickrecipe"
+    },
+    {
+      "name": "Arrowwhisperwindbowtexture",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "arrowwhisperwindbowtexture"
+    },
+    {
+      "name": "Whisperwindbow",
+      "type": "rangeditem",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "whisperwindbow"
+    },
+    {
+      "name": "Whisperwindrecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "whisperwindrecipe"
+    },
+    {
+      "name": "ItsItitchy",
+      "type": "achievement",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "its_ititchy"
+    },
+    {
+      "name": "Cookedrice",
+      "type": "food",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cookedrice"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.breadcats_mod.sss": "Sss",
+      "block.breadcats_mod.fluorite_ore": "Fluorite Ore",
+      "item.breadcats_mod.woolclothing_leggings": "Wool pants",
+      "item.breadcats_mod.ricecorns": "Ricecorns",
+      "advancements.its_ititchy.descr": "For wearing wool",
+      "advancements.meettheengineer.title": "Meet the engineer",
+      "item.breadcats_mod.woolclothing_helmet": "Wool hat",
+      "item.breadcats_mod.woolclothing_chestplate": "Wool sweater",
+      "item.breadcats_mod.woolclothing_boots": "Wool socks",
+      "item.breadcats_mod.whisperwindbow": "Whisperwindbow",
+      "advancements.its_ititchy.title": "Its Ititchy",
+      "item.breadcats_mod.cookedrice": "Cookedrice",
+      "block.breadcats_mod.fluorite_block": "Block of Fluorite",
+      "advancements.meettheengineer.descr": "Placed a redstone",
+      "item.breadcats_mod.fluorite": "Fluorite",
+      "item.breadcats_mod.fluorite_pickaxe": "Fluorite Pickaxe",
+      "item.breadcats_mod.arrowwhisperwindbowtexture": "Arrowwhisperwindbowtexture",
+      "enchantment.breadcats_mod.smelt": "Smelt",
+      "block.breadcats_mod.rice": "Rice"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "breadcats_mod",
+    "modName": "Breadcats mod",
+    "version": "1.0.0",
+    "author": "Brage, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.breadcatsmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}
