@@ -1,0 +1,42 @@
+{
+  "group": "breadcats_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "breadcats_mod:fluorite"
+    },
+    "1": {
+      "item": "breadcats_mod:fluorite"
+    },
+    "2": {
+      "item": "breadcats_mod:fluorite"
+    },
+    "3": {
+      "item": "breadcats_mod:fluorite"
+    },
+    "4": {
+      "item": "breadcats_mod:fluorite"
+    },
+    "5": {
+      "item": "breadcats_mod:fluorite"
+    },
+    "6": {
+      "item": "breadcats_mod:fluorite"
+    },
+    "7": {
+      "item": "breadcats_mod:fluorite"
+    },
+    "8": {
+      "item": "breadcats_mod:fluorite"
+    }
+  },
+  "result": {
+    "item": "breadcats_mod:fluorite_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "s",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:string"
+    },
+    "1": {
+      "item": "minecraft:debug_stick"
+    },
+    "3": {
+      "item": "minecraft:bow"
+    },
+    "4": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "5": {
+      "item": "minecraft:blaze_rod"
+    },
+    "6": {
+      "item": "minecraft:string"
+    },
+    "7": {
+      "item": "minecraft:debug_stick"
+    }
+  },
+  "result": {
+    "item": "breadcats_mod:whisperwindbow",
+    "count": 1
+  }
+}

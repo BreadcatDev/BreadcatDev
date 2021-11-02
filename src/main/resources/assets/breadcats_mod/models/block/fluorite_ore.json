@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "breadcats_mod:blocks/fluoriteore",
+    "up": "breadcats_mod:blocks/fluoriteore",
+    "north": "breadcats_mod:blocks/fluoriteore",
+    "east": "breadcats_mod:blocks/fluoriteore",
+    "south": "breadcats_mod:blocks/fluoriteore",
+    "west": "breadcats_mod:blocks/fluoriteore",
+    "particle": "breadcats_mod:blocks/fluoriteore"
+  }
+}

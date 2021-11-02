@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "breadcats_mod:items/wool_socks"
+  }
+}
